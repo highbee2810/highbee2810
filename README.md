@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Ansible playbooks**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **any Devops project**
 
-- 🤝 I’m looking for help with **infrastructure management**
+- 🤝 I’m looking for help with **Ansible galaxy**
 
 - 👨‍💻 All of my projects are available at (here on GITHUB)
 
