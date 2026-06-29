@@ -1,6 +1,4 @@
-## Hi, I'm Ibrahim Oyinkolade 
-### Cloud & DevOps Engineer | DevOps Tutor & Mentor | AWS Community Builder (2nd Year)
-### ☁️ AWS Certified 
+### Cloud & DevOps Engineer | DevOps Tutor & Mentor | AWS Community Builder | AWS Certified 
 
 > *Building cloud solutions, automating deployments, and helping aspiring engineers learn Cloud & DevOps through practical projects.*
 
