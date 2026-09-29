@@ -78,7 +78,7 @@ Here are some of the projects you'll find on my GitHub:
 
 💼 LinkedIn: https://linkedin.com/in/ibrahimoyinkolade
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: 
 
 📧 Email: [ibrahimkolade2810@gmail.com](mailto:ibrahimkolade2810@gmail.com)
 
